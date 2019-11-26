@@ -6,3 +6,4 @@ All assets were made on/exported from Adobe Illustrator CC 2019
 * [Icon](icon.png): Just the cloud
 * [Logo](logo.png): Cloud + Text
 * [Text](text.png): Just the text
+* [Discord](discord.png): Discord server logo
