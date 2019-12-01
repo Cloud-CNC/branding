@@ -18,6 +18,7 @@ All assets were made on/exported from Adobe Illustrator CC 2019.
 * Font: `Niveau Grotesk` (Light/Regular)
 
 ### Export Settings
+* Use Artboards: `True/All`
 * Resolution: `High (300 ppi)`
 * Anti-aliasing: `Art Optimized (Supersampling)`
 * Interlaced: `False`
