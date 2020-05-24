@@ -8,7 +8,7 @@ Cloud CNC logos and colors
 * Font: [`Serenity (Light + Medium)`](https://fonts.adobe.com/fonts/serenity)
 
 ## Example
-![Logo + Text](./Logo+text.png)
+![Logo + Text](./Logo+Text.png)
 
 ![Logo](./Logo.png)
 
