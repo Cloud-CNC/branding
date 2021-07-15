@@ -1,21 +1,17 @@
-# Cloud CNC Branding
-Cloud CNC logos and colors
+# Branding
 
-## Info
-* Software: Adobe Illustrator CC 2020
-* Artboard - Width/Height: `2048 px`
-* Color: [![#546e7a](https://img.shields.io/badge/%23546e7a-546e7a?style=for-the-badge)](https://www.color-hex.com/color/546e7a)
-* Font: [`Serenity (Light + Medium)`](https://fonts.adobe.com/fonts/serenity)
+## Logos
+[![Light icon](./icon-light.png)](./icon-light.png)
+[![Dark icon](./icon-dark.png)](./icon-dark.png)
+[![Light wordmark](./wordmark-light.png)](./wordmark-light.png)
+[![Dark wordmark](./wordmark-dark.png)](./wordmark-dark.png)
 
-## Example
-![Logo + Text](./Logo+Text.png)
+## Colors
 
-![Logo](./Logo.png)
+### Light
+[![#191919](https://img.shields.io/badge/%23191919-191919?style=for-the-badge)](https://www.color-hex.com/color/191919)
+### Dark
+[![#e5e5e5](https://img.shields.io/badge/%23e5e5e5-e5e5e5?style=for-the-badge)](https://www.color-hex.com/color/e5e5e5)
 
-### Export Settings
-* Method: `Export As...`
-* Use Artboards: `True/All`
-* Resolution: `Screen (72 ppi)`
-* Anti-aliasing: `Art Optimized (Supersampling)`
-* Interlaced: `False`
-* Background Color: `Transparent`
+## Fonts
+[`Sen (400)`](https://fonts.google.com/specimen/Sen)
